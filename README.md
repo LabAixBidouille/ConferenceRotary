@@ -1,4 +1,4 @@
-PresentationMarsJug
+Presentation Rotary
 ===================
 
-Slides de la présentation DIY donnée au MarsJUG le 9/04
+Présentation utilisée pour la conférence sur le thème "L'informatique pour tous" donnée au Rotary Club Vitrolles-Etang le 15 Mai 2013.
